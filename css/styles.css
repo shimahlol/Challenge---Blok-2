@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Redacted+Script:wght@300;400;700&display=swap');
+
+html{
+	background-image: url("..//images/galaxy.jpg");
+	background-repeat: repeat;
+	justify-content: center;
+	font-family: 'Redacted Script', cursive;
+	color: aqua;
+	margin-left: 10%;
+	padding:0 40px;
+}
+
+header .opdrachten{
+	height:90p;
+	display:flex;
+	flex-direction:row;
+	justify-content:space-between;
+	align-items: center;
+	box-shadow: 0 2px 8px rgb(0 0 0/6%);
+	padding:0 400px;
+	margin-bottom: 40px;
+}
+
+.projects, .opdrachten{
+	font-family: 'Times New Roman', Times, serif;
+	font-size: 20px;
+	color: black;
+}
+
+.opdrachten{
+	display: inline-block;
+	padding-right: 15px;
+	color : #4e4b4b;
+
+}
+
+.opdrachten{
+	display: inline-block;
+	padding-right: 15px;
+	color :red;
+	
+}
+
+.logo{
+	max-width: 10%;  
+	height: auto;  
+}
+
+.blub{
+	font-family: sans-serif;
+	margin-top: 10px;
+	margin-left: 20%;
+	margin-right: 20%;
+	border: 1px solid red;
+}
+
+.vreselijk{
+	margin-left: 30px;
+	
+	border: 1px solid black;
+}
